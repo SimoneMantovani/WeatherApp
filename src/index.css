@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.ChooseYourCity{
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.Body{
+    background-color : #ebf2fa;
+    align-items: center;
+    padding-bottom: 100px;
+    margin-left : 20%;
+    margin-right : 20%;
+    min-height: fit-content;
+}
+
+.MainItalianCity{
+  display : flex;
+  padding : 50px;
+  justify-content : space-around;
+}
+
+.RenderSelectedCity{
+text-align: center;
+background-color: antiquewhite;
+height: 300px;
+width: auto;
+margin-left : 25%;
+margin-right : 25%;
+}
+
+.Slide{
+  text-align: center;
+  padding: 20px;
+}
